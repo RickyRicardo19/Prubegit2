@@ -11,3 +11,4 @@ git clone https://github.com/RickyRicardo19/Prubegit2.git
 git config --global user.name
 git config --global -l jkjk
 git jij
+a ver que pasa ahora 
