@@ -13,3 +13,7 @@ git config --global -l jkjk
 git jij
 a ver que pasa ahora 
 jkjkdsdsd
+nueva rama git check out -b nueva_rama, git status
+git push origin nueva_rama
+git checkout main vuelvo a la rama anterior
+
